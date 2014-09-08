@@ -10,6 +10,6 @@ Adding New Project/Repo To Git
 	git commit -m "Initial commit"
 7. Create the git repo to GitHub
 8. add the above project to git hub
-	git remote add origin <<https://github.com/ivamsi2001/GitNotes.git>>
+	git remote add origin https://github.com/ivamsi2001/GitNotes.git
 	git push -u origin master
 
