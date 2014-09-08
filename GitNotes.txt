@@ -1,0 +1,14 @@
+Adding New Project/Repo To Git
+1. Open git shell
+2. Move to Directory where rep need to create
+3. type following command (project1 is my repo name) 
+	git init GitNotes
+4. Place the folder/file to above folder
+5. add the files to git by following command
+	git add GitNotes.txt
+6. commit the files to Git
+	git commit -m "Initial commit"
+7. Create the git repo to GitHub
+8. add the above project to git hub
+
+git remote add origin https://github.com/ivamsi2001/test.git
